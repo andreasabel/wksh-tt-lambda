@@ -6,19 +6,19 @@ Room ED, EDIT Building, Chalmers Johanneberg campus, Gothenburg, Sweden
 
 ## Schedule (preliminary)
 
-<pre>
-09.45 (optional) Meet for coffee in the lunch room
-10.15 Rasmus Møgelberg, Bisimulation as path type for guarded recursive types
-11.15 Andy Pitts, Crisp Type Theory in Agda-flat
-
-12.00 Lunch
-
-13.30 Ken-Etsu Fujita, A constructive proof of the Church—Rosser theorem
-14.30 Coffee break
-15.00 Hugo Herbelin, Proving with side effects
-
-16.00 End
-</pre>
+| Time | Talk |
+| --- | --- |
+| 09.45 | Coffee in the lunch room |
+| 10.15 | Rasmus Møgelberg, Bisimulation as path type for guarded recursive types |
+| 11.15 | Andy Pitts, Crisp Type Theory in Agda-flat |
+| --- | --- |
+| 12.00 | Lunch break |
+| --- | --- |
+| 13.30 | Ken-Etsu Fujita, A constructive proof of the Church—Rosser theorem |
+| 14.30 | Coffee break in the lunch room |
+| 15.00 | Hugo Herbelin, Proving with side effects |
+| --- | --- |
+| 16.00 | End |
 
 ## Talks and abstracts
 
