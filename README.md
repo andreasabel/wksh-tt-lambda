@@ -14,9 +14,9 @@ Room ED, EDIT Building, Chalmers Johanneberg campus, Gothenburg, Sweden
 | --- | --- |
 | 12.00 | Lunch break |
 | --- | --- |
-| 13.30 | Ken-Etsu Fujita, A constructive proof of the Church—Rosser theorem |
+| 13.30 | Hugo Herbelin, Proving with side effects |
 | 14.30 | Coffee break in the lunch room |
-| 15.00 | Hugo Herbelin, Proving with side effects |
+| 15.00 | Ken-Etsu Fujita, A constructive proof of the Church—Rosser theorem |
 | --- | --- |
 | 16.00 | End |
 
@@ -65,6 +65,14 @@ and myself axiomatizing cubical sets models of univalent foundations
 forced us to use a modal type theory, implemented by Andrea Vezzosi as
 an exension of Agda called agda-flat.
 
+### Hugo Herbelin (INRIA Paris), Proving with side effects
+
+We shall explore how to use memory assignment to express forcing in
+direct style, the same way as classical logic can be seen as direct
+style for the double-negation translation. In particular, our
+attention shall be retained by a new and short proof with memory
+assignment of Gödel's completeness theorem.
+
 ### Ken-etsu Fujita (Gunma University), A constructive proof of the Church—Rosser theorem
 
 My motivation behind this talk comes from a quantitative analysis of
@@ -105,14 +113,6 @@ universal common-reduct
 are given, and path matrices are also defined as block matrices of
 adjacency matrices in
 order to count reduction orbits.
-
-### Hugo Herbelin (INRIA Paris), Proving with side effects
-
-We shall explore how to use memory assignment to express forcing in
-direct style, the same way as classical logic can be seen as direct
-style for the double-negation translation. In particular, our
-attention shall be retained by a new and short proof with memory
-assignment of Gödel's completeness theorem.
 
 
 
