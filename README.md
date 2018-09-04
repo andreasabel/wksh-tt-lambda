@@ -14,9 +14,10 @@ Room ED, EDIT Building, Chalmers Johanneberg campus, Gothenburg, Sweden
 | --- | --- |
 | 12.00 | Lunch break |
 | --- | --- |
-| 13.30 | Hugo Herbelin, Proving with side effects |
-| 14.30 | Coffee break in the lunch room |
-| 15.00 | Ken-Etsu Fujita, A constructive proof of the Church—Rosser theorem |
+| 13.15 | Hugo Herbelin, Proving with side effects |
+| 14.00 | Bob Atkey, TBA |
+| 14.45 | Coffee break in the lunch room |
+| 15.15 | Ken-Etsu Fujita, A constructive proof of the Church—Rosser theorem |
 | --- | --- |
 | 16.00 | End |
 
