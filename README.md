@@ -15,7 +15,7 @@ Room ED, EDIT Building, Chalmers Johanneberg campus, Gothenburg, Sweden
 | 12.00 | Lunch break |
 | --- | --- |
 | 13.15 | Hugo Herbelin, Proving with side effects |
-| 14.00 | Bob Atkey, TBA |
+| 14.00 | Bob Atkey, Syntax and Semantics of Quantitative Type Theory  |
 | 14.45 | Coffee break in the lunch room |
 | 15.15 | Ken-Etsu Fujita, A constructive proof of the Church—Rosser theorem |
 | --- | --- |
@@ -73,6 +73,10 @@ direct style, the same way as classical logic can be seen as direct
 style for the double-negation translation. In particular, our
 attention shall be retained by a new and short proof with memory
 assignment of Gödel's completeness theorem.
+
+### Bob Atkey (Strathclyde University), Syntax and Semantics of Quantitative Type Theory 
+
+I'll present Quantitative Type Theory, a Type Theory that records usage information for each variable in a judgement, based on a previous system by McBride. The usage information is used to give a realizability semantics using a variant of Linear Combinatory Algebras, refining the usual realizability semantics of Type Theory by accurately tracking resource behaviour. We define the semantics in terms of Quantitative Categories with Families, a novel extension of Categories with Families for modelling resource sensitive type theories. 
 
 ### Ken-etsu Fujita (Gunma University), A constructive proof of the Church—Rosser theorem
 
